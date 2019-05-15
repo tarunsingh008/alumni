@@ -1,0 +1,5 @@
+<div class="title" align="centre">
+	
+	<h4><a href="logout.php" style ="float:right; margin-right:30px; color:#fff; font-size:20px;">LOGOUT</a></h4>
+	<h1 >Welcome To Admin Dashbord</h1>
+	</div>

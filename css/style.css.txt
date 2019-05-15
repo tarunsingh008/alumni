@@ -1,0 +1,20 @@
+.title
+{
+
+ background-colour:#530602;
+ color:#fff;
+ margin-left:400px;
+ margin-right:50px;
+ height:140px;
+ line-height:140px;
+}
+.dashboard
+{
+ 
+ margin-left:400px;
+ margin-right:100px;
+ height:140px;
+ line-height:140px;
+ font-size:25px;
+}
+
